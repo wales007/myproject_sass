@@ -1,8 +1,8 @@
 == README
 
-Coder Manual Application
+Side Project handcrafted by wales
 Subscription based web application
-Http://codermanual.com
+Http://incspired.co
 
 Things you may want to cover:
 
